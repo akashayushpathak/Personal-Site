@@ -1,0 +1,22 @@
+body {
+  background-color: #b6d7de;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #f1f3f8;
+  border-width: 5px;
+}
+h1{
+  color: #7d0633;
+  font-family: w3-loster;
+}
+h2 {
+  color: #7d0633;
+  font-family: monospace;
+}
+h3 {
+  color: #7d0633;
+  font-family: serif;
+}
